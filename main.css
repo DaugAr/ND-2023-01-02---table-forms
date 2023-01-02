@@ -1,0 +1,30 @@
+body {
+    margin: 200px;
+    box-sizing: border-box;
+}
+
+.row {
+    height: 100px;
+    background-color: rgb(171, 167, 204);
+    text-align: center;
+    border: 1px solid;
+}
+
+.input {
+    height: 100px;
+    background-color: lightgray;
+}
+
+.inputbody {
+    height: 250px;
+    background-color: white;
+}
+
+.middle {
+    height: 450px;
+}
+
+.col-3 {
+    background-color: rgb(205, 201, 228);
+    border-bottom: 1px solid;
+}
